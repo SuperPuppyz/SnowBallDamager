@@ -1,0 +1,6 @@
+name: Damager
+author: SuperPuppyz
+version: 1.0
+api-version: 1.19
+description: SnowBalls Damager Added
+main: com.wytheria.damager.Main
